@@ -21,7 +21,7 @@
 						<canvas id="canvas"></canvas>
 						<div id="health-bars">
 							<div class="health-label">
-							<strong>Player 1</strong><br><span id="p1-kills">0</span> KO(s)
+							<strong>Covid warrior</strong><br><span id="p1-kills">0</span> KO(s)
 							</div>
 							<div class="health">
 								<span class="fill" id="p1-health"></span>
@@ -30,7 +30,7 @@
 								<span class="fill" id="p2-health"></span>
 							</div>
 							<div class="health-label">
-							<strong>Player 2</strong><br><span id="p2-kills">0</span> KO(s)
+							<strong>Demon</strong><br><span id="p2-kills">0</span> KO(s)
 							</div>
 						</div>
 					</div>
